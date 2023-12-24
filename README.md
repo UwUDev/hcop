@@ -2,6 +2,11 @@
 A rust wrapper for the [HCoptcha](https://hcoptcha.online) API.
 
 ## Usage
+```toml
+[dependencies]
+hcop = "0.1.0"
+```
+
 ```rust
 use hcop::HCop;
 
